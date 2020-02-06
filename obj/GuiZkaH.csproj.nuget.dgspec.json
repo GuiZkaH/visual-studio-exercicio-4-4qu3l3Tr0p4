@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\mtsrvfile1\\ALUNOS_PROFILES$\\a43108\\Documents\\FTIM\\FTIM-Xico\\visual-studio-exercicio-4-4qu3l3Tr0p4\\GuiZkaH\\GuiZkaH.csproj": {}
+  },
+  "projects": {
+    "\\\\mtsrvfile1\\ALUNOS_PROFILES$\\a43108\\Documents\\FTIM\\FTIM-Xico\\visual-studio-exercicio-4-4qu3l3Tr0p4\\GuiZkaH\\GuiZkaH.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\mtsrvfile1\\ALUNOS_PROFILES$\\a43108\\Documents\\FTIM\\FTIM-Xico\\visual-studio-exercicio-4-4qu3l3Tr0p4\\GuiZkaH\\GuiZkaH.csproj",
+        "projectName": "GuiZkaH",
+        "projectPath": "\\\\mtsrvfile1\\ALUNOS_PROFILES$\\a43108\\Documents\\FTIM\\FTIM-Xico\\visual-studio-exercicio-4-4qu3l3Tr0p4\\GuiZkaH\\GuiZkaH.csproj",
+        "packagesPath": "C:\\Users\\a43108\\.nuget\\packages\\",
+        "outputPath": "\\\\mtsrvfile1\\ALUNOS_PROFILES$\\a43108\\Documents\\FTIM\\FTIM-Xico\\visual-studio-exercicio-4-4qu3l3Tr0p4\\GuiZkaH\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a43108\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
